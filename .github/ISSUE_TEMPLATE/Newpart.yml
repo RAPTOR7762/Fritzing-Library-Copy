@@ -6,6 +6,14 @@ body:
       value: |
         Name of the part
   - type: textarea
+    id: user-comment
+    attributes:
+      label: Your Comment
+      description: Please enter your comments
+      value: Hi there! I would like to request for a(n) <!--Part Name--> part
+    validations:
+      required: true
+  - type: textarea
     id: product-link
     attributes:
       label: Product Link
