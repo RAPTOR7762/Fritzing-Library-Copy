@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="adafruit_clipSideBlue_2" referenceFile="Antenna.fzp" fritzingVersion="1.0.5">
+ <version>2</version>
+ <author>Adafruit, RAPTOR7762</author>
+ <title>Alligator Clip</title>
+ <label>J</label>
+ <date>Mon Jun 30 2025</date>
+ <tags/>
+ <properties>
+  <property name="variant">sideBlue</property>
+  <property name="family">gator</property>
+  <property name="view">side</property>
+  <property name="layer"></property>
+  <property name="color">blue</property>
+  <property name="part number"></property>
+ </properties>
+ <description>A generic Alligator clip, by Adafruit.</description>
+ <views>
+  <iconView>
+   <layers image="icon/adagator_blue_side.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <pcbView>
+   <layers image="breadboard/adagator_blue_side.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </pcbView>
+  <schematicView>
+   <layers image="breadboard/adagator_blue_side.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </schematicView>
+  <breadboardView fliphorizontal="true">
+   <layers image="breadboard/adagator_blue_side.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+ </views>
+ <connectors>
+  <connector name="wire" id="connector0" type="female">
+   <description>wire</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+    </schematicView>
+    <pcbView>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
