@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xml:space="preserve"
+   version="1.2"
+   id="Layer_1"
+   gorn="0"
+   width="1.37783in"
+   viewBox="0 0 1377.83 393.69401"
+   x="0px"
+   y="0px"
+   height="0.39369401in"
+   sodipodi:docname="adagator_blue_top.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="11.313709"
+     inkscape:cx="124.05305"
+     inkscape:cy="6.4081552"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><desc
+     id="desc1">
+        <referenceFile>clip-side-green.svg</referenceFile>
+    </desc><g
+     id="breadboard"><path
+       fill="#a0a0a0"
+       d="m 1142.7623,279.5445 199.5222,-13.52834 c 20.6675,-1.40284 36.7098,-18.57022 36.7098,-39.27941 v -24.84826 c 0,-20.7092 -16.0423,-37.87658 -36.7098,-39.27941 l -199.5222,-13.51445 z"
+       id="path1-0"
+       style="stroke-width:13.8894" /><path
+       fill="#dcdcdc"
+       d="m 1134.8869,266.50229 199.5222,-10.8199 c 20.6676,-1.12504 36.7099,-14.86172 36.7099,-31.43185 v -19.87583 c 0,-16.57014 -16.0423,-30.30683 -36.7099,-31.43187 l -199.5222,-10.806 z"
+       id="path2-9"
+       style="stroke-width:13.8894" /><path
+       d="m 1181.2177,107.61543 c 0,-9.792062 -7.2781,-18.11184 -16.9729,-19.500785 C 835.70382,41.057202 566.19301,0 472.53648,0 378.56049,0 346.15641,27.431656 257.02783,78.364254 174.08006,125.75504 149.07906,136.81104 19.684981,137.74164 8.8789919,137.81108 0.07308316,146.6031 0.07308316,157.40909 v 118.24086 c 0,10.81987 8.84757714,19.62578 19.66745584,19.68134 128.171811,0.6528 141.616791,8.62535 228.606391,48.0297 101.55963,46.00185 114.58793,50.34925 224.18955,50.34925 93.60097,0 354.18087,-27.65389 690.63882,-57.46064 10.1532,-0.90282 18.0424,-9.41705 18.0424,-19.6119 z"
+       fill="#1b5bb3"
+       id="path5"
+       style="stroke-width:13.8894" /><path
+       d="m 1175.3147,125.46337 c 0,-7.83365 -7.2087,-14.4867 -16.8063,-15.59785 C 833.25928,72.21123 566.44302,39.376579 473.71708,39.376579 c -93.03151,0 -125.11613,21.945325 -213.35578,62.683071 -82.1144,37.91819 -106.87929,46.76576 -234.967757,47.5019 -10.694873,0.0556 -19.4174453,7.09751 -19.4174453,15.73675 v 94.60101 c 0,8.66702 8.7503513,15.69508 19.4730033,15.73675 126.893979,0.52779 140.200069,6.90305 226.314629,38.43209 100.5457,36.80703 113.43511,40.2794 221.93946,40.2794 92.67039,0 350.63907,-22.12589 683.73581,-45.97407 10.0559,-0.72225 17.8618,-7.52808 17.8618,-15.69507 V 125.46337 Z"
+       fill="#418dd5"
+       id="path6"
+       style="stroke-width:13.8894" /><rect
+       id="connector0pin"
+       width="78.963165"
+       height="126.08672"
+       x="0.15532587"
+       y="149.54895"
+       fill="#418dd5"
+       style="stroke-width:14.3535" /><rect
+       id="connector0terminal"
+       gorn="0.8"
+       width="0.15750632"
+       x="-0.0056699971"
+       stroke="none"
+       fill="#418dd5"
+       y="216.4323"
+       stroke-width="0"
+       height="0.23623168" /></g></svg>
